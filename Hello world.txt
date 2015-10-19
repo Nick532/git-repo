@@ -1,3 +1,0 @@
-print("Hello world")
-print("Hello everybody")
-print("Hello 151003 1143")
