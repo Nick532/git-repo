@@ -1,3 +1,0 @@
-print("Hello world")
-print(Hello everybody")
-print("151019 1708")
